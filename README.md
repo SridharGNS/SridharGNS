@@ -87,6 +87,8 @@ My work mainly focuses on:
 - Writing about .NET, React, Git workflows, microservices, and engineering lessons learned from real-world projects
 - Planning to share more articles on system modernization, debugging, and release management
 
+-  [Lessons Learned from a Branching and Release Management Issue](https://medium.com/@sridharguru2179/lessons-learned-from-a-gitlab-branching-mistake-during-release-management-78a363fc0756)
+ 📖 Medium: https://medium.com/@sridharguru2179
 ---
 
 # 📊 GitHub Stats
