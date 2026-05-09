@@ -24,34 +24,17 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer working on large-scale fintech systems at Nasdaq (via Accolite), with a strong focus on backend engineering, APIs, and system modernization.
+I'm a full-stack engineer at Nasdaq (via Accolite), specializing in backend engineering, API design, and system modernization for large-scale fintech platforms.
 
-Since 2023, I've been involved in modernizing enterprise-scale platforms, working across monolith-to-microservices migration, full-stack rewrites, and cloud-native systems.
+ ## Key Highlights
+Led modernization projects: monolith-to-microservices migration, AngularJS → React, .NET Framework → .NET Core 8
+Built and migrated 100+ APIs for IR Insights and IRO on the GO
+Contributed to a shared NuGet library used by 40+ microservices
+Hands-on with AWS (Lambda, ECS/EKS, S3, etc.), Terraform, and cloud-native architectures
+Experience with external API integrations and data pipelines
+I’m passionate about scalable system design, cloud infrastructure, and building solutions that last in production. Always eager to learn, collaborate, and contribute to high-impact projects.
 
-**At Nasdaq, I've:**
-* Built and migrated 120+ APIs for IR Insights Mobile and 60+ APIs for IRO on the GO
-* Led full-stack modernization efforts (AngularJS → React, .NET Framework → .NET Core 8)
-* Contributed to a shared NuGet library adopted across 40+ microservices
-* Worked across multiple modules within the IR Insights platform, including CRM Tools and Report Manager, taking end-to-end ownership in parts
 
-**Recently, my work has expanded into:**
-* External API integrations (Morningstar financial data)
-* Designing AWS Lambda-based data ingestion pipelines
-* Contributing to ECS → EKS migration and Terraform infra restructuring
-
-**My core strengths lie in:**
-* Backend engineering (.NET Core, Microservices, API Design, REST APIs)
-* Frontend development (React, TypeScript)
-* Cloud & infrastructure (AWS, Kubernetes, Docker, Terraform)
-
-I'm particularly interested in how systems evolve at scale—from monoliths to microservices, and now toward AI-integrated architectures with proper guardrails.
-
-I enjoy going beyond assigned tickets—understanding system design, trade-offs, and building systems that hold up in production.
-
-Interested in working on high-scale systems and contributing to architecture decisions.
-
-🏆 “Extra Miler” award recipient (Q4)
-🎸 Big Taylor Swift fan & acoustic music lover
 
 ---
 
