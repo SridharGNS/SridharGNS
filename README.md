@@ -1,6 +1,12 @@
+
 <!-- Banner Gradient (replace with your own image if desired) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Guru%20Naga%20Satya%20Sridhar&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SridharGNS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <!-- Hero Section -->
@@ -25,8 +31,29 @@
 
 ---
 
+
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
+</p>
+
+<!-- AWS Experience -->
+## ☁️ AWS Experience
+
+Familiar with the following AWS services:
+
+* Lambda
+* Batch
+* SQS
+* S3
+* SNS
+* Secrets Manager
+* CloudWatch
+* ECR
+* EC2
+* VPC
+* Security Group
+* IAM
+* ...and more
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
