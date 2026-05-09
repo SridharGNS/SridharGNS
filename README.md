@@ -41,26 +41,6 @@ I’m passionate about scalable system design, cloud infrastructure, and buildin
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
-</p>
-
-<!-- AWS Experience -->
-## ☁️ AWS Experience
-
-Familiar with the following AWS services:
-
-* Lambda
-* Batch
-* SQS
-* S3
-* SNS
-* Secrets Manager
-* CloudWatch
-* ECR
-* EC2
-* VPC
-* Security Group
-* IAM
-* ...and more
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
