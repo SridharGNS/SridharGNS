@@ -20,14 +20,38 @@
 
 ---
 
+
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🧑‍💻 Software Engineer with 1+ year professional experience
-- 💡 Passionate about building scalable, modern applications and system modernization
-- 🖥️ Skilled in both backend (C#, .NET, ASP.NET Core, Microservices) and frontend (React, AngularJS)
-- 🏆 “Extra Miler” award recipient (Q4)
-- 🎸 Big Taylor Swift fan & acoustic music lover
+I'm a full-stack engineer working on large-scale fintech systems at Nasdaq (via Accolite), with a strong focus on backend engineering, APIs, and system modernization.
+
+Since 2023, I've been involved in modernizing enterprise-scale platforms, working across monolith-to-microservices migration, full-stack rewrites, and cloud-native systems.
+
+**At Nasdaq, I've:**
+* Built and migrated 120+ APIs for IR Insights Mobile and 60+ APIs for IRO on the GO
+* Led full-stack modernization efforts (AngularJS → React, .NET Framework → .NET Core 8)
+* Contributed to a shared NuGet library adopted across 40+ microservices
+* Worked across multiple modules within the IR Insights platform, including CRM Tools and Report Manager, taking end-to-end ownership in parts
+
+**Recently, my work has expanded into:**
+* External API integrations (Morningstar financial data)
+* Designing AWS Lambda-based data ingestion pipelines
+* Contributing to ECS → EKS migration and Terraform infra restructuring
+
+**My core strengths lie in:**
+* Backend engineering (.NET Core, Microservices, API Design, REST APIs)
+* Frontend development (React, TypeScript)
+* Cloud & infrastructure (AWS, Kubernetes, Docker, Terraform)
+
+I'm particularly interested in how systems evolve at scale—from monoliths to microservices, and now toward AI-integrated architectures with proper guardrails.
+
+I enjoy going beyond assigned tickets—understanding system design, trade-offs, and building systems that hold up in production.
+
+Interested in working on high-scale systems and contributing to architecture decisions.
+
+🏆 “Extra Miler” award recipient (Q4)
+🎸 Big Taylor Swift fan & acoustic music lover
 
 ---
 
