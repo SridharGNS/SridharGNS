@@ -72,7 +72,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SridharGNS/SridharGNS/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/SridharGNS/SridharGNS/blob/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
