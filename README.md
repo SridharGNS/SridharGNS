@@ -1,136 +1,143 @@
-
-<!-- Banner Gradient (replace with your own image if desired) -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Guru%20Naga%20Satya%20Sridhar&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SridharGNS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Hero Section -->
+<!-- Intro -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/SridharGNS/SridharGNS/main/assets/wave.gif" width="36px" /> Hi, I'm Guru Naga Satya Sridhar!
+  Hi 👋, I'm Guru Naga Satya Sridhar
 </h1>
+
+<h3 align="center">
+  Software Engineer | C# .NET Developer | Full Stack Engineer
+</h3>
+
 <p align="center">
-  <b>Software Engineer • C# .NET Developer • Backend & Frontend Enthusiast</b><br>
-  <em>Building scalable systems, modernizing APIs, and loving the journey! 🚀</em>
+  Passionate about backend engineering, API modernization, cloud-native systems, and scalable architecture.
 </p>
 
 ---
 
+# 👨‍💻 About Me
 
-<!-- About Me -->
-## 👨‍💻 About Me
+I'm a Software Engineer working on large-scale fintech applications at Nasdaq (via Accolite).
 
-I'm a full-stack engineer at Nasdaq (via Accolite), specializing in backend engineering, API design, and system modernization for large-scale fintech platforms.
-
- ## Key Highlights
-Led modernization projects: monolith-to-microservices migration, AngularJS → React, .NET Framework → .NET Core 8
-Built and migrated 100+ APIs for IR Insights and IRO on the GO
-Contributed to a shared NuGet library used by 40+ microservices
-Hands-on with AWS (Lambda, ECS/EKS, S3, etc.), Terraform, and cloud-native architectures
-Experience with external API integrations and data pipelines
-I’m passionate about scalable system design, cloud infrastructure, and building solutions that last in production. Always eager to learn, collaborate, and contribute to high-impact projects.
-
-
+My work mainly focuses on:
+- Modernizing legacy systems into microservices
+- Building scalable backend APIs using .NET
+- Developing frontend applications with React
+- Improving deployment and release workflows
+- Cloud and infrastructure engineering using AWS & Terraform
 
 ---
 
+# 🚀 Experience Highlights
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+- Migrated monolithic applications to microservices architecture
+- Built and modernized 100+ APIs for IR Insights and IRO on the GO
+- Worked on AngularJS → React migration projects
+- Contributed to shared NuGet libraries used across 40+ microservices
+- Worked with AWS services including Lambda, ECS/EKS, and S3
+- Experience with Terraform, CI/CD pipelines, and interservice communication
+- Hands-on experience debugging production issues and release-management workflows
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 </p>
 
 ---
 
-<!-- Current Focus -->
-## 🚀 Current Focus
+# 🌱 Currently Learning
 
-- Migrating monolithic applications to microservices
-- API modernization & interservice communication
-- Building backend APIs and React frontend components
-- Learning scalable system design
-- Open source contributions
+- Scalable system design
+- Distributed systems & microservices patterns
+- Cloud-native architecture
+- Open-source contribution workflows
+- Advanced React patterns
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+# ✍️ Technical Writing
+
+- Writing about .NET, React, Git workflows, microservices, and engineering lessons learned from real-world projects
+- Planning to share more articles on system modernization, debugging, and release management
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SridharGNS&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SridharGNS&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharGNS&layout=compact&theme=github_dark&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SridharGNS&show_icons=true&theme=github_dark&hide_title=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SridharGNS&theme=github-dark-blue&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharGNS&layout=compact&theme=github_dark&hide_title=true" />
 </p>
 
 ---
 
-<!-- Contribution Snake Animation -->
-## 🐍 Contribution Activity
+# 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/SridharGNS/SridharGNS/blob/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/SridharGNS/SridharGNS/blob/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- Connect With Me -->
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/sridhar-guru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/SridharGNS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="mailto:sridharguru2179@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://{your-portfolio-url}/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
-  </a>
+
 </p>
-<!-- Replace {your-portfolio-url} above -->
 
 ---
 
-<!-- Fun Section -->
-## 🎵 Fun Facts
+# 🎵 Fun Facts
 
-- 🎤 Big Taylor Swift acoustic music lover
-- 🧠 Loves learning new technologies & scalable architecture
-- 🤝 Always open to connect and collaborate!
+- 🎤 Big Taylor Swift acoustic music fan
+- 🧠 Enjoys debugging and solving production issues
+- 🚀 Interested in scalable backend systems and architecture
+- 🤝 Open to collaboration and open-source contributions
 
 ---
 
-<!-- Footer Separator -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer"/>
 </p>
-
----
-
-<!--
-⭐️ Inspired by modern GitHub profile designs.
-📝 Feel free to update your links, images, and content!
--->
-
----
