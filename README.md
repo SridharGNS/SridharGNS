@@ -86,7 +86,7 @@ I’m passionate about scalable system design, cloud infrastructure, and buildin
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/SridharGNS/SridharGNS/blob/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/SridharGNS/SridharGNS/blob/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
